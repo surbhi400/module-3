@@ -1,0 +1,89 @@
+body{
+    font-size: 16px;
+    color: coral;
+    background-color:yellow
+}
+ #header-nav{
+     background-color: red;
+ }
+ h1 {
+     color:black;
+ }
+ .container{
+     margin-top: 50px;
+  
+
+  
+ 
+ }
+ #item1{
+     text-align: center;
+     background-color: chocolate;
+     border-radius: 1px;
+     border: 1px solid darkslategray;
+
+ }
+ .p1{
+     background-color: white;
+     padding: 5px 5px 5px 7px;
+     border:1px solid darkslategrey;
+ }
+ #item2{
+    text-align: center;
+    background-color: chocolate;
+    border-radius: 1px;
+    border: 1px solid darkslategray;
+ }
+ .p2{
+     background-color:white;
+     padding: 5px 5px 5px 7px;
+     border:1px solid darkslategrey;
+ 
+ }
+ #item3{
+     text-align: center;
+     background-color:chocolate;
+     border-radius: 1px;
+     border:1px solid darkslategrey;
+ 
+ }
+ .p3{
+    background-color:white;
+    padding: 5px 5px 5px 7px;
+    border:1px solid darkslategrey;
+ }
+ .heading{
+     text-align: center;
+     color: black;
+ 
+ }
+ 
+ 
+ .navbar-toggler{
+     position: relative;
+     padding: 5px 5px;
+     margin-top: 8px;
+     margin-bottom: 8px;
+     background-color:yellow;
+     border-radius: 4px;
+ }
+ .navbar-toggler:hover{
+     background-color: saddlebrown;
+ 
+ }
+ .navbar-toggler.icon-bar{
+     display: block;
+     width: 22px;
+     height: 2px;
+     border-radius: 1px;
+ }
+ .navbar-toggler.icon-bar+.icon-bar{
+     margin-top: 4px;
+ 
+ }
+ @media (min-width: 768px){
+     .navbar-toggler {
+         display:none
+     }
+ }
+ 
